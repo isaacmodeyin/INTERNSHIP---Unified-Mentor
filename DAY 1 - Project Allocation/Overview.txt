@@ -1,0 +1,3 @@
+UM - Internship || WEB DEVELOPMENT || (Full Stack JavaScript, MEAN, MERN) 1 Month.
+
+This extended 30-day curriculum provides a comprehensive learning journey for HTML, CSS, JavaScript, React, Vue, and advanced CSS techniques. You'll have the opportunity to explore and practice various web development skills. Remember that practice and hands-on projects are essential for mastering web development. Good luck with your continued learning journey!
